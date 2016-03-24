@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=ayaAeYjVeZM
 
 for more detail
 see the this page.
-
+http://study.marearts.com/2016/03/opencv-rtsp-receiving-test.html
 
 
 
